@@ -1,15 +1,12 @@
 @font-face {
   font-family: isocpeur;
-  src: url(/src/fonts/isocpeur.ttf);
+  src: url(src/fonts/isocpeur.ttf);
 }
 @font-face {
   font-family: DaMi;
-  src: url(/src/fonts/DaMiOne-Regular.ttf);
+  src: url(src/fonts/DaMiOne-Regular.ttf);
 }
-@font-face {
-  font-family: Misto;
-  src: url(/src/fonts/Misto.ttf);
-}
+
 ::selection {
   background: #262626; 
   }
