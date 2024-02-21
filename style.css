@@ -3,8 +3,8 @@
   src: url(/src/fonts/isocpeur.ttf);
 }
 @font-face {
-  font-family: DaMi;
-  src: url(/src/fonts/DaMiOne-Regular.ttf);
+  font-family: isocpeur;
+  src: url(/src/fonts/isocpeurOne-Regular.ttf);
 }
 @font-face {
   font-family: Misto;
@@ -179,7 +179,7 @@ html, body {
 }
 .title h1
 {
-  font-family: DaMi;
+  font-family: isocpeur;
   font-size: 40px;
   letter-spacing: 5px;
 }
@@ -192,7 +192,7 @@ html, body {
 .title-two h3
 {
   font-size: 17.7px;
-  font-family: DaMi;
+  font-family: isocpeur;
   font-weight: 400;
 }
 .text-block-one
@@ -370,7 +370,7 @@ nav
 }
 .logo
 {
-  font-family: DaMi;
+  font-family: isocpeur;
   font-size: 15px;
   transition: .3s;
   cursor:context-menu;
